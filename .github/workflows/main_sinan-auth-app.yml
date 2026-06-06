@@ -52,4 +52,4 @@ jobs:
           app-name: 'sinan-auth-app'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F9EFE64C04EF46628B00D82C792569F2 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_56B819EC74BD4CE0B210C8768B19439C }}
